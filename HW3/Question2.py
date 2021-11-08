@@ -1,6 +1,6 @@
 # Gabriel Jentis
 # EECE 5644
-# HW 3, Question 1
+# HW 3, Question 2
 
 import numpy as np
 import matplotlib.pyplot as plt
